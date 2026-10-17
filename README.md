@@ -14,7 +14,7 @@
    
    в поле "Пароль" введите пароль от аккаунта.
 
-<img width="304" height="68" alt="Снимок экрана 2026-09-09 201708" src="https://github.com/user-attachments/assets/8182df07-1ab5-41af-946e-bd6ced26f29a" />
+   <img width="304" height="68" alt="Снимок экрана 2026-09-09 201708" src="https://github.com/user-attachments/assets/8182df07-1ab5-41af-946e-bd6ced26f29a" />
 
    
    теперь вы можете вводить команды.
