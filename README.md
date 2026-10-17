@@ -7,6 +7,7 @@
 2. В папке cattast найдите и запустите cattast.exe.
 3. После запуска вы увидите:
    <img width="1918" height="984" alt="Снимок экрана 2026-09-09 201436" src="https://github.com/user-attachments/assets/509d53ee-122a-4ac0-8acf-f25db618dcfe" />
+
    
    в строку Email введите почту на которую регистрировали аккаунт.
    После этого вы увидите:
